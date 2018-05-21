@@ -1,4 +1,15 @@
 body {
+    text-align: center;
     background-color: cornflowerblue;
-    color: tomato;
+    color: antiquewhite;
 };
+
+ul {
+    float: left;
+    
+}
+
+li {
+    color: brown;
+    list-style-position: inside;
+}

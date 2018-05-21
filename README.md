@@ -1,1 +1,1 @@
-# my-journal
+This is the readme. 
