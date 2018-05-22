@@ -1,15 +1,22 @@
 body {
     text-align: center;
-    background-color: cornflowerblue;
-    color: antiquewhite;
+    background-color: lightgrey;
+    color: #0b3c5d;
 };
 
-ul {
+.journalEntry {
     float: left;
-    
-}
-
-li {
     color: brown;
     list-style-position: inside;
 }
+
+article {
+    text-align: center;
+    list-style: inside;
+    border: 2px solid black;
+    padding: 1%;
+    max-width: 65%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
